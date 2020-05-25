@@ -1,7 +1,7 @@
 CKEditor 5 classic editor build
 ========================================
 
-<h3 align=center>⚠⚠ This repository was moved ⚠⚠</h3>
+<h3 align=center>⚠⚠ This repository was cloned of the original and was added some extra plugins ⚠⚠</h3>
 
 <p align=center>The package was moved to the <a href="https://github.com/ckeditor/ckeditor5/tree/master/packages">main repository</a>.</p>
 
